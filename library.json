@@ -1,0 +1,19 @@
+{
+    "name": "AmbaSat SI1132 Library",
+    "frameworks": "arduino",
+    "keywords": "sensors, ambasat, UV, Infrared, Ultraviolet, visible light, SI1132, I2C",
+    "description": "AmbaSat SI1132 UV, Visible and Infrared Light Sensor Library for use with the AmbaSat-1 Low Earth Orbit Space Satellite",
+    "authors": [
+        {
+            "name": "AmbaSat Ltd",
+            "email": "dev@ambasat.com",
+            "url": "https://ambasat.com",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ambasat/AmbaSat-SI1132-Library"
+    },
+    "version": "1.0.1"
+}
